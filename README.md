@@ -2,7 +2,7 @@
 
 Supplementary tables accompanying the manuscript:
 
-**Leveraging cis- and trans-variants to improve protein expression level prediction for proteome-wide association studies**
+**Leveraging *cis*- and *trans*-variants to improve protein expression level prediction for proteome-wide association studies**
 
 Rui Dong<sup>1,5</sup>, Derek Lamb<sup>1,2,5</sup>, Gao T. Wang<sup>1</sup>, Andrew T. DeWan<sup>3</sup>, Suzanne M. Leal<sup>1,4,\*</sup>
 
