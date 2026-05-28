@@ -7,10 +7,15 @@ Supplementary tables accompanying the manuscript:
 Rui Dong<sup>1,5</sup>, Derek Lamb<sup>1,2,5</sup>, Gao T. Wang<sup>1</sup>, Andrew T. DeWan<sup>3</sup>, Suzanne M. Leal<sup>1,4,\*</sup>
 
 <sup>1</sup> Center for Statistical Genetics, Gertrude H. Sergievsky Center, and the Department of Neurology, Columbia University Medical Center, New York, NY 10032, USA
+
 <sup>2</sup> Department of Biostatistics, Mailman School of Public Health, Columbia University, New York, NY 10032, USA
+
 <sup>3</sup> Department of Chronic Disease Epidemiology and Center for Perinatal, Pediatric and Environmental Epidemiology, Yale School of Public Health, 1 Church Street, New Haven, CT 06510, USA
+
 <sup>4</sup> Taub Institute for Alzheimer's Disease and the Aging Brain, Columbia University Medical Center, New York, NY 10032, USA
+
 <sup>5</sup> These authors contributed equally to this work.
+
 <sup>\*</sup> Correspondence: sml3@cumc.columbia.edu
 
 ---
